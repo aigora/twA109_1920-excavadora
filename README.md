@@ -1,10 +1,9 @@
-# Título del trabajo
+EXCAVADORA
 
 Descripción breve del proyecto a realizar (2-3 frases).
 
-## Integrantes del equipo
-
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Integrantes del equipo: 
+Patricia Martín Mateo (@patriciamartinm), Inés Rico Peng (@inesrico)
 
 ## Objetivos del trabajo
 
