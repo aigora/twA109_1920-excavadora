@@ -11,3 +11,7 @@ Objetivos:
 
 Hardware: PC, Arduino UNO, motor dc, sensor de ultrasonido, servomotor
 Software: desarrollo en C con devc++ con Arduino UNO
+
+
+
+Hemos añadido un archivo que hicimos para probar que se podían mostrar las coordenadas de varios puntos llamado prueba1.c con su correspondiente fichero coordenadas.txt en el que se encuentran diferentes distancias y ángulos.
